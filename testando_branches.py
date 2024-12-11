@@ -1,5 +1,1 @@
-print("OI")
-
-
-
-resposta = input(" ")
+print("Bem vindo Tec")
