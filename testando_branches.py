@@ -1,3 +1,1 @@
-print("Olá mateus")
-print("Como vai?")
-resposta = input(" ")
+print("Bem vindo Tec")
