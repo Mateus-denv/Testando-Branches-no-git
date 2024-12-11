@@ -1,1 +1,2 @@
-print("Olá mateus")
+print("Bem vindo Tec")
+print("Olá, mateus")
